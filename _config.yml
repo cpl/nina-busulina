@@ -3,7 +3,7 @@ name: "Nina Bușulina"
 description: "A Romanian (and more) kitchen recipes and stories"
 logo: "assets/images/logo.png"
 favicon: "assets/images/favicon.ico"
-baseurl: "nina.cpl.li"
+baseurl: ""
 email: "alexandru+nina@cpl.li"
 
 include: ["_pages"]
